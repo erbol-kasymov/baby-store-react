@@ -1,0 +1,54 @@
+{
+  "name": "store",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^1.12.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "2gis-maps": "^3.7.3",
+    "airtable-node": "^0.1.20",
+    "antd": "^5.4.7",
+    "axios": "^1.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "react-router-dom": "^6.4.4",
+    "react-scripts": "5.0.1",
+    "styled-components": "^5.3.6",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "build": "concurrently \"npm run server\" \"npm build\"",
+    "start": "react-scripts start",
+    "build:start": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "netlify": "netlify dev",
+    "dev": "netlify dev",
+    "server": "json-server -w ./db.json -p 3002"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1",
+    "json-server": "^0.17.3"
+  }
+}

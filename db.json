@@ -1,0 +1,736 @@
+{
+    "goods":[
+        {
+            "id": "kurtkaVesna01",
+            "name": "Куртка",
+            "price": 4299,
+            "image": "./imagesProduct/kurtka-vesna-blue-01.jpg",
+            "colors": [
+                "#ff0000",
+                "#00ff00"
+            ],
+            "company": "Мужской",
+            "category": "Куртки",
+            "shipping": true
+        },
+        {
+            "id": "kurtkaVesna02",
+            "name": "Куртка",
+            "price": 4199,
+            "image": "./imagesProduct/kurtka-vesna-grey-02.jpg",
+            "colors": [
+                "#7d8869",
+                "#facb00",
+                "#2e8b57",
+                "#140075"
+            ],
+            "company": "Мужской",
+            "category": "Куртки",
+            "shipping": false,
+            "featured": true
+        },
+        {
+            "id": "dresses01",
+            "name": "Легкое трикотажное платье с коротким рукавом",
+            "price": 999,
+            "image": "./imagesProduct/dresses-pink-jens-01.jpg",
+            "colors": [
+                "#f53d81",
+                "#facb00"
+            ],
+            "company": "Женский",
+            "category": "Платья"
+        },
+        {
+            "id": "tolstovJens01",
+            "name": "Жакет на кнопках для девочки",
+            "price": 1899,
+            "image": "./imagesProduct/tolstov-white-jens-01.jpg",
+            "colors": [
+              "#d8caac",
+              "#140075"
+            ],
+            "company": "Женский",
+            "category": "Жакеты",
+            "shipping": false
+        },
+        {
+            "id": "tolstovJens02",
+            "name": "Куртка-бомбер на молнии для девочки",
+            "price": 1899,
+            "image": "./imagesProduct/tolstov-blue-jens-02.jpg",
+            "colors": [
+                "#55d5be"
+            ],
+            "company": "Женский",
+            "category": "Жакеты",
+            "shipping": false,
+            "featured": true
+        },
+        {
+            "id": "brukiMuj01",
+            "name": "Трикотажные брюки",
+            "price": 999,
+            "image": "./imagesProduct/bruki-black-muj-01.jpg",
+            "colors": [
+                "#000",
+                "#1b255f",
+                "#140075"
+            ],
+            "company": "Мужской",
+            "category": "Брюки",
+            "shipping": false
+        },
+        {
+            "id": "brukiMuj02",
+            "name": "Брюки для мальчика",
+            "price": 649,
+            "image": "./imagesProduct/bruki-black-muj-02.jpg",
+            "colors": [
+                "#000"
+            ],
+            "company": "Мужской",
+            "category": "Брюки",
+            "shipping": false
+        },
+        {
+            "id": "djemperMij01",
+            "name": "Однотонный джемпер из капитония",
+            "price": 1249,
+            "image": "./imagesProduct/djemper-brown-muj-01.jpg",
+            "colors": [
+                "#d8a24e",
+                "#f53d81",
+                "#000"
+            ],
+            "company": "Мужской",
+            "category": "Джемперы",
+            "shipping": false
+        },
+        {
+            "id": "djemperMij02",
+            "name": "Джемпер для мальчика",
+            "price": 1049,
+            "image": "./imagesProduct/djemper-brown-muj-02.jpg",
+            "colors": [
+                "#d8caac"
+            ],
+            "company": "Мужской",
+            "category": "Джемперы",
+            "shipping": false,
+            "featured": true
+        },
+        {
+          "id": "vodolazkaJens01",
+          "name": "Однотонная водолазка",
+          "price": 899,
+          "image": "./imagesProduct/vodolazka-blue-jens-01.jpg",
+          "colors": [
+            "blue",
+            "pink",
+            "white"
+          ],
+          "company": "Женский",
+          "category": "Водолазки",
+          "shipping": false
+        },
+        {
+          "id": "kurtkaJens01",
+          "name": "Демисезонное куртка",
+          "price": 4999,
+          "image": "./imagesProduct/kurtka-vesna-black-jens-01.jpg",
+          "colors": [
+            "black",
+            "pink"
+          ],
+          "company": "Женский",
+          "category": "Куртки",
+          "shipping": false
+        },
+        {
+          "id": "brukiJens01",
+          "name": "Брюки на резинке для девочки",
+          "price": 1299,
+          "image": "./imagesProduct/bruki-blue-jens-01.jpg",
+          "colors": [
+            "blue",
+            "brown"
+          ],
+          "company": "Женский",
+          "category": "Брюки",
+          "shipping": false
+        },
+        {
+          "id": "accessuarSumkaJens01",
+          "name": "Детский рюкзак с набивным рисунком",
+          "price": 1299,
+          "image": "./imagesProduct/accessur-sumka-pink-jens-01.jpg",
+          "colors": [
+            "orange",
+            "violet",
+            "green"
+          ],
+          "company": "Аксессуары",
+          "category": "Сумки",
+          "shipping": false
+        },
+        {
+          "id": "accessuarZontJens01",
+          "name": "Зонт",
+          "price": 600,
+          "image": "./imagesProduct/accessur-zont-pink-jens-01.jpg",
+          "colors": [
+            "pink"
+          ],
+          "company": "Аксессуары",
+          "category": "Зонт",
+          "shipping": false
+        },
+        {
+          "id": "accessuarZontMuj01",
+          "name": "Зонт",
+          "price": 600,
+          "image": "./imagesProduct/accessur-zont-blue-muj-01.jpg",
+          "colors": [
+            "blue"
+          ],
+          "company": "Аксессуары",
+          "category": "Зонт",
+          "shipping": false
+        },
+        {
+          "id": "accessuarSumkaMuj01",
+          "name": "Детский рюкзак с набивным рисунком",
+          "price": 1600,
+          "image": "./imagesProduct/accessur-sumka-green-muj-01.jpg",
+          "colors": [
+            "green",
+            "black"
+          ],
+          "company": "Аксессуары",
+          "category": "Сумки",
+          "shipping": false
+        }
+    ],
+
+    "single":[
+        {
+            "id": "kurtkaVesna01",
+            "stock": 13,
+            "price": 4299,
+            "shipping": true,
+            "colors": [
+                "#140075",
+                "#7d8869"
+            ],
+            "category": "Куртки",
+            "images": [
+                {
+                    "id": "attub6EG88kJKuYs8",
+                    "width": 1000,
+                    "height": 667,
+                    "url": "./../imagesProduct/kurtka-vesna-blue-01.jpg",
+                    "type": "image/jpeg"
+                },
+                {
+                    "id": "attaeT2Dex98o2jfW",
+                    "width": 1000,
+                    "height": 667,
+                    "url": "./../imagesProduct/kurtka-vesna-white-01.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            "reviews": 25,
+            "stars": 4.9,
+            "name": "Куртка",
+            "description": "Удлиненная куртка-ветровка из мембранной ткани с дополнительной тефлоновой обработкой. Данный вид обработки предохраняет изделие от загрязнения и лучше отводит влагу. Подклад из 100% полиэстра. У изделия предусмотрена защита подбородка. Несъемный капюшон регулируется с помощью эластичного шнура со стопперами. Низ рукавов изделия имеет эластичную резинку для лучшего прилегания. Накладные карманы с клапанами. Во всех изделиях верхнего ассортимента для безопасности ребенка предусмотрены светоотражающие элементы.",
+            "company": "Мужской"
+        },
+        {
+            "id": "kurtkaVesna02",
+            "stock": 10,
+            "price": 4199,
+            "colors": [
+                "#7d8869",
+                "#facb00",
+                "#2e8b57",
+                "#140075"
+            ],
+            "category": "Куртки",
+            "images": [
+                {
+                    "id": "attlcoqbw6bhTczEe",
+                    "width": 1000,
+                    "height": 652,
+                    "url": "./../imagesProduct/kurtka-vesna-grey-02.jpg",
+                    "type": "image/jpeg"
+                },
+                {
+                    "id": "attHgcoIeZwV6JF4M",
+                    "width": 1000,
+                    "height": 667,
+                    "url": "./../imagesProduct/kurtka-vesna-yellow-02.jpg",
+                    "type": "image/jpeg"
+                },
+                {
+                    "id": "attNyzd6GgsyXGWFh",
+                    "width": 1000,
+                    "height": 714,
+                    "url": "./../imagesProduct/kurtka-vesna-green-02.jpg",
+                    "type": "image/jpeg"
+                },
+                {
+                    "id": "attvKDkKgX3W7WsZu",
+                    "width": 1000,
+                    "height": 650,
+                    "url": "./../imagesProduct/kurtka-vesna-blue-02.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            "reviews": 123,
+            "stars": 3.3,
+            "name": "Куртка",
+            "description": "Демисезонная куртка для мальчика с утеплителем Слайтекс Найс® 120 г/м2 . Выполнена из мембранной ткани с дополнительной тефлоновой обработкой. Данный вид обработки предохраняет изделие от загрязнения и лучше отводит влагу. Подклад из 100% хлопка. У изделия предусмотрена защита подбородка. Несъемный капюшон регулируется с помощью эластичного шнура со стопперами.Низ куртки и низ рукавов имеют эластичную резинку для лучшего прилегания. Во всех изделиях верхнего ассортимента для безопасности ребенка предусмотрены светоотражающие элементы.",
+            "company": "Мужской"
+        },
+        {
+            "id": "dresses01",
+            "stock": 28,
+            "price": 999,
+            "colors": [
+                "#f53d81",
+                "#facb00"
+            ],
+            "category": "Платья",
+            "images": [
+                {
+                    "id": "attixaIFKWvfsDgXe",
+                    "width": 1000,
+                    "height": 652,
+                    "url": "./../imagesProduct/dresses-pink-jens-01.jpg",
+                    "type": "image/jpeg"
+                },
+                {
+                    "id": "atteiTCuP63WZxqRP",
+                    "width": 1000,
+                    "height": 667,
+                    "url": "./../imagesProduct/dresses-yellow-jens-01.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            "reviews": 123,
+            "stars": 3.3,
+            "name": "Легкое трикотажное платье с коротким рукавом",
+            "description": "Легкое трикотажное платье с коротким рукавом для девочки из высококачественного хлопка. Оригинальная набивка выполнена из стойких текстильных гипоаллергенных красителей. Изделие сохраняет цвет и форму после многократных стирок.",
+            "company": "Женский"
+        },
+        {
+            "id": "tolstovJens01",
+            "stock": 25,
+            "price": 1899,
+            "shipping": false,
+            "colors": [
+              "#d8caac",
+              "#140075"
+            ],
+            "category": "Жакеты",
+            "images": [
+              {
+                "id": "odejda01-01",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/tolstov-white-jens-01.jpg",
+                "type": "image/jpeg"
+              },
+              {
+                "id": "odejda01-02",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/tolstov-blue-jens-01.jpg",
+                "type": "image/jpeg"
+              }
+            ],
+            "reviews": 25,
+            "stars": 4.9,
+            "name": "Жакет на кнопках для девочки",
+            "description": "Жакет на кнопках для девочки из стеганного трикотажного полотна. Удобные боковые карманы, трикотажный манжет по горловине.",
+            "company": "Женский"
+        },
+        {
+            "id": "tolstovJens02",
+            "stock": 5,
+            "price": 1899,
+            "shipping": false,
+            "colors": [
+              "#55d5be"
+            ],
+            "category": "Жакеты",
+            "images": [
+              {
+                "id": "odejda02-01",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/tolstov-blue-jens-02.jpg",
+                "type": "image/jpeg"
+              }
+            ],
+            "reviews": 25,
+            "stars": 4.9,
+            "name": "Куртка-бомбер на молнии для девочки",
+            "description": "Куртка-бомбер на молнии для девочки из капитония, произведённого из натурального хлопка. У изделия эластичные манжеты и пояс, в боковых швах карманы. Куртка сохраняет цвет и форму после многократных стирок. Капитоний - это стёганное трикотажное полотно с утеплителем из полиэстеровой нити.",
+            "company": "Женский"
+        },
+        {
+            "id": "brukiMuj01",
+            "stock": 8,
+            "price": 999,
+            "shipping": false,
+            "colors": [
+              "#000",
+              "#1b255f",
+              "#140075"
+            ],
+            "category": "Брюки",
+            "images": [
+              {
+                "id": "odejda03-01",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/bruki-black-muj-01.jpg",
+                "type": "image/jpeg"
+              },
+              {
+                "id": "odejda03-02",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/bruki-temno-blue-muj-01.jpg",
+                "type": "image/jpeg"
+              },
+              {
+                "id": "odejda03-03",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/bruki-blue-muj-01.jpg",
+                "type": "image/jpeg"
+              }
+            ],
+            "reviews": 25,
+            "stars": 4.9,
+            "name": "Трикотажные брюки для мальчика из высококачественного трикотажного полотна супрем",
+            "description": "Трикотажные брюки для мальчика из высококачественного трикотажного полотна супрем. Эластичный пояс на резинке регулируется по ширине с помощью шнура, по бокам два удобных кармана, внизу эластичные манжеты.,",
+            "company": "Мужской"
+        },
+        {
+            "id": "brukiMuj02",
+            "stock": 4,
+            "price": 649,
+            "shipping": false,
+            "colors": [
+              "#000"
+            ],
+            "category": "Брюки",
+            "images": [
+              {
+                "id": "odejda04-01",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/bruki-black-muj-02.jpg",
+                "type": "image/jpeg"
+              }
+            ],
+            "reviews": 25,
+            "stars": 4.9,
+            "name": "Брюки для мальчика",
+            "description": "Брюки для мальчика из петельчатого футера, произведенного из натурального хлопка. Эластичный пояс регулируется по ширине с помощью шнурка. У изделия эластичные манжеты, по бокам два удобных кармана. Оригинальная набивка выполнена из стойких текстильных красителей. Брюки сохраняют цвет и форму после многократных стирок.",
+            "company": "Мужской"
+        },
+        {
+            "id": "djemperMij01",
+            "stock": 9,
+            "price": 1249,
+            "shipping": false,
+            "colors": [
+              "#d8a24e",
+              "#f53d81",
+              "#000"
+            ],
+            "category": "Джемперы",
+            "images": [
+              {
+                "id": "odejda05-01",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/djemper-brown-muj-01.jpg",
+                "type": "image/jpeg"
+              },
+              {
+                "id": "odejda05-02",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/djemper-pink-muj-01.jpg",
+                "type": "image/jpeg"
+              },
+              {
+                "id": "odejda05-03",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/djemper-black-muj-01.jpg",
+                "type": "image/jpeg"
+              }
+            ],
+            "reviews": 25,
+            "stars": 4.9,
+            "name": "Однотонный джемпер из капитония",
+            "description": "Однотонный джемпер из капитония. У изделия рукава-реглан, эластичные манжеты и пояс. Джемпер сохраняет цвет и форму после многократных стирок. Капитоний - это стёганное трикотажное полотно с утеплителем из полиэстеровой нити.",
+            "company": "Мужской"
+        },
+        {
+            "id": "djemperMij02",
+            "stock": 19,
+            "price": 1049,
+            "shipping": false,
+            "colors": [
+              "#d8caac"
+            ],
+            "category": "Джемперы",
+            "images": [
+              {
+                "id": "odejda05-01",
+                "width": 1000,
+                "height": 667,
+                "url": "./../imagesProduct/djemper-brown-muj-02.jpg",
+                "type": "image/jpeg"
+              }
+            ],
+            "reviews": 25,
+            "stars": 4.9,
+            "name": "Джемпер для мальчика",
+            "description": "Джемпер для мальчика из футера с начесом, произведенного из натурального хлопка. У изделия длинные втачные рукава, эластичные манжеты. Для удобства в размере 98 имеется застежка на кнопки на плече. Оригинальный принт выполнен из стойких текстильных красителей. Джемпер сохраняет цвет и форму после многократных стирок.",
+            "company": "Мужской"
+        },
+        {
+          "id": "vodolazkaJens01",
+          "stock": 13,
+          "price": 899,
+          "shipping": false,
+          "colors": [
+            "blue",
+            "pink",
+            "white"
+          ],
+          "category": "Водолазки",
+          "images": [
+            {
+              "id": "odejda06-01",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/vodolazka-blue-jens-01.jpg",
+              "type": "image/jpeg"
+            },
+            {
+              "id": "odejda06-02",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/vodolazka-pink-jens-01.jpg",
+              "type": "image/jpeg"
+            },
+            {
+              "id": "odejda06-03",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/vodolazka-white-jens-01.jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "reviews": 25,
+          "stars": 4.9,
+          "name": "Однотонная водолазка",
+          "description": "Однотонная базовая водолазка с длинными втачными рукавами для девочки. Сшита из эластичного трикотажа кашкорсе с эластаном. Рукава и низ изделия обработаны плоскими швами.",
+          "company": "Женский"
+        },
+        {
+          "id": "kurtkaJens01",
+          "stock": 5,
+          "price": 4999,
+          "shipping": false,
+          "colors": [
+            "black",
+            "pink"
+          ],
+          "category": "Куртки",
+          "images": [
+            {
+              "id": "odejda07-01",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/kurtka-vesna-black-jens-01.jpg",
+              "type": "image/jpeg"
+            },
+            {
+              "id": "odejda07-02",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/kurtka-vesna-pink-jens-01.jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "reviews": 25,
+          "stars": 4.9,
+          "name": "Демисезонное куртка",
+          "description": "Демисезонное пальто для девочки с утеплителем Fellex® 120 г/м2. Рекомендованный температурный режим: от -5° до +3° без поддевы и от -10° до +3° с поддевой. Верхняя мембранная ткань 1000/1000 с тефлоновым покрытием отталкивает воду и грязь и обладает «дышащими» свойствами. Подкладка выполнена из 100% полиэстера. Застёгивается на двухзамковую молнию, предусмотрена защита подбородка. Дополнительная ветрозащитная планка внутри.",
+          "company": "Женский"
+        },
+        {
+          "id": "brukiJens01",
+          "stock": 10,
+          "price": 1299,
+          "shipping": false,
+          "colors": [
+            "blue",
+            "brown"
+          ],
+          "category": "Брюки",
+          "images": [
+            {
+              "id": "odejda08-01",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/bruki-blue-jens-01.jpg",
+              "type": "image/jpeg"
+            },
+            {
+              "id": "odejda08-02",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/bruki-brown-jens-01.jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "reviews": 25,
+          "stars": 4.9,
+          "name": "Брюки на резинке для девочки",
+          "description": "Трикотажные брюки для девочки из петельчатого футера. Эластичный пояс на резинке регулируется по ширине с помощью шнурка, по бокам два удобных кармана, внизу эластичные манжеты.",
+          "company": "Женский"
+        },
+        {
+          "id": "accessuarSumkaJens01",
+          "stock": 5,
+          "price": 1299,
+          "shipping": false,
+          "colors": [
+            "orange",
+            "violet",
+            "green"
+          ],
+          "category": "Сумки",
+          "images": [
+            {
+              "id": "odejda09-01",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/accessur-sumka-pink-jens-01.jpg",
+              "type": "image/jpeg"
+            },
+            {
+              "id": "odejda09-02",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/accessur-sumka-violet-jens-01.jpg",
+              "type": "image/jpeg"
+            },
+            {
+              "id": "odejda09-03",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/accessur-sumka-green-jens-01.jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "reviews": 25,
+          "stars": 4.9,
+          "name": "Детский рюкзак с набивным рисунком",
+          "description": "Детский рюкзак с набивным рисунком. Сделан из мембранной ткани, обладающей водоотталкивающими свойствами. Лямки регулируются по росту ребенка. Предусмотрена дополнительная петля, чтобы носить рюкзак в руке или вешать его на крючок. Застегивается на молнию с двумя замками. Внутри карман из сетки.",
+          "company": "Аксессуары"
+        },
+        {
+          "id": "accessuarZontJens01",
+          "stock": 5,
+          "price": 600,
+          "shipping": false,
+          "colors": [
+            "pink"
+          ],
+          "category": "Зонт",
+          "images": [
+            {
+              "id": "odejda10-01",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/accessur-zont-pink-jens-01.jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "reviews": 25,
+          "stars": 4.9,
+          "name": "Зонт",
+          "description": "Детский зонтик с милыми единорожками для весёлых прогулок под дождём. Широкий купол полностью укроет голову и плечи от мелкого дождика или сильного ливня. А сквозь плотный прозрачный материал ребёнок будет видеть дорогу и не столкнётся с встречными прохожими. ",
+          "company": "Аксессуары"
+        },
+        {
+          "id": "accessuarZontMuj01",
+          "stock": 5,
+          "price": 600,
+          "shipping": false,
+          "colors": [
+            "blue"
+          ],
+          "category": "Зонт",
+          "images": [
+            {
+              "id": "odejda11-01",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/accessur-zont-blue-muj-01.jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "reviews": 25,
+          "stars": 4.9,
+          "name": "Зонт",
+          "description": "Большой детский зонт для прогулок под дождём. Широкий купол полностью защитит голову и плечи от мелкого дождика или сильного ливня. Спицы надёжно скрыты под пластиковыми наконечниками. Пластиковую ручку удобно держать в руке. Зонт легко складывается и раскладывается, поэтому ребёнок справится с ним без помощи взрослых.",
+          "company": "Аксессуары"
+        },
+        {
+          "id": "accessuarSumkaMuj01",
+          "stock": 15,
+          "price": 1600,
+          "shipping": false,
+          "colors": [
+            "green",
+            "black"
+          ],
+          "category": "Сумки",
+          "images": [
+            {
+              "id": "odejda12-01",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/accessur-sumka-green-muj-01.jpg",
+              "type": "image/jpeg"
+            },
+            {
+              "id": "odejda12-02",
+              "width": 1000,
+              "height": 667,
+              "url": "./../imagesProduct/accessur-sumka-black-muj-01.jpg",
+              "type": "image/jpeg"
+            }
+          ],
+          "reviews": 25,
+          "stars": 4.9,
+          "name": "Детский рюкзак с набивным рисунком",
+          "description": "Детский рюкзак с набивным рисунком. Сделан из мембранной ткани, обладающей водоотталкивающими свойствами. Лямки регулируются по росту ребенка. Предусмотрена дополнительная петля, чтобы носить рюкзак в руке или вешать его на крючок. Застегивается на молнию с двумя замками. Внутри карман из сетки. ",
+          "company": "Аксессуары"
+        }
+    ]
+}
