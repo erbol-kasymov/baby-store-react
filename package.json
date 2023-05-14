@@ -20,14 +20,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "concurrently \"npm run server\" \"npm build\"",
+    "start:2": "concurrently \"npm run server\" \"npm build\"",
     "start": "react-scripts start",
-    "build:start": "react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "netlify": "netlify dev",
-    "dev": "netlify dev",
-    "server": "json-server -w ./db.json -p 3002"
+    "server": "json-server -w ./db.json -p 4002"
   },
   "eslintConfig": {
     "extends": [
