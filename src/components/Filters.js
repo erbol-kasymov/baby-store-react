@@ -34,7 +34,7 @@ const Filters = () => {
             <input
               type="text"
               name="text"
-              placeholder="search"
+              placeholder="поиск..."
               className="search-input"
               value={text}
               onChange={updateFilters}
@@ -135,7 +135,7 @@ const Filters = () => {
           {/* end price */}
           {/* shipping */}
           <div className="form-control shipping">
-            <label htmlFor="shipping">free shipping</label>
+            <label htmlFor="shipping">Скидки</label>
             <input
               type="checkbox"
               name="shipping"

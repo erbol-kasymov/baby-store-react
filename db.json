@@ -6,8 +6,8 @@
             "price": 4299,
             "image": "./imagesProduct/kurtka-vesna-blue-01.jpg",
             "colors": [
-                "#ff0000",
-                "#00ff00"
+                "red",
+                "green"
             ],
             "company": "Мужской",
             "category": "Куртки",
@@ -19,10 +19,10 @@
             "price": 4199,
             "image": "./imagesProduct/kurtka-vesna-grey-02.jpg",
             "colors": [
-                "#7d8869",
-                "#facb00",
-                "#2e8b57",
-                "#140075"
+                "grey",
+                "yellow",
+                "green",
+                "blue"
             ],
             "company": "Мужской",
             "category": "Куртки",
@@ -35,8 +35,8 @@
             "price": 999,
             "image": "./imagesProduct/dresses-pink-jens-01.jpg",
             "colors": [
-                "#f53d81",
-                "#facb00"
+                "pink",
+                "yellow"
             ],
             "company": "Женский",
             "category": "Платья"
@@ -47,8 +47,8 @@
             "price": 1899,
             "image": "./imagesProduct/tolstov-white-jens-01.jpg",
             "colors": [
-              "#d8caac",
-              "#140075"
+              "grey",
+              "blue"
             ],
             "company": "Женский",
             "category": "Жакеты",
@@ -60,7 +60,7 @@
             "price": 1899,
             "image": "./imagesProduct/tolstov-blue-jens-02.jpg",
             "colors": [
-                "#55d5be"
+                "aqua"
             ],
             "company": "Женский",
             "category": "Жакеты",
@@ -73,9 +73,9 @@
             "price": 999,
             "image": "./imagesProduct/bruki-black-muj-01.jpg",
             "colors": [
-                "#000",
-                "#1b255f",
-                "#140075"
+                "black",
+                "blue",
+                "blue"
             ],
             "company": "Мужской",
             "category": "Брюки",
@@ -87,7 +87,7 @@
             "price": 649,
             "image": "./imagesProduct/bruki-black-muj-02.jpg",
             "colors": [
-                "#000"
+                "black"
             ],
             "company": "Мужской",
             "category": "Брюки",
@@ -99,9 +99,9 @@
             "price": 1249,
             "image": "./imagesProduct/djemper-brown-muj-01.jpg",
             "colors": [
-                "#d8a24e",
-                "#f53d81",
-                "#000"
+                "brown",
+                "pink",
+                "black"
             ],
             "company": "Мужской",
             "category": "Джемперы",
@@ -113,7 +113,7 @@
             "price": 1049,
             "image": "./imagesProduct/djemper-brown-muj-02.jpg",
             "colors": [
-                "#d8caac"
+                "white"
             ],
             "company": "Мужской",
             "category": "Джемперы",
@@ -298,7 +298,7 @@
             "stock": 28,
             "price": 999,
             "colors": [
-                "#f53d81",
+                "pink",
                 "#facb00"
             ],
             "category": "Платья",
@@ -330,7 +330,7 @@
             "price": 1899,
             "shipping": false,
             "colors": [
-              "#d8caac",
+              "white",
               "#140075"
             ],
             "category": "Жакеты",
@@ -386,7 +386,7 @@
             "price": 999,
             "shipping": false,
             "colors": [
-              "#000",
+              "black",
               "#1b255f",
               "#140075"
             ],
@@ -426,7 +426,7 @@
             "price": 649,
             "shipping": false,
             "colors": [
-              "#000"
+              "black"
             ],
             "category": "Брюки",
             "images": [
@@ -450,9 +450,9 @@
             "price": 1249,
             "shipping": false,
             "colors": [
-              "#d8a24e",
-              "#f53d81",
-              "#000"
+              "brown",
+              "pink",
+              "black"
             ],
             "category": "Джемперы",
             "images": [
@@ -490,7 +490,7 @@
             "price": 1049,
             "shipping": false,
             "colors": [
-              "#d8caac"
+              "white"
             ],
             "category": "Джемперы",
             "images": [
